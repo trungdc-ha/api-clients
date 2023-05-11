@@ -1,0 +1,62 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Nguyen Van A",
+      "gender": 1,
+      "languages": [
+        "JAVA",
+        "React JS"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Nguyen Van B",
+      "gender": 1,
+      "languages": [
+        "JAVA",
+        "React JS"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Nguyen Van C",
+      "gender": 0,
+      "languages": [
+        "JAVA",
+        "React JS"
+      ]
+    },
+    {
+      "name": "C11_Hung",
+      "age": "19",
+      "gender": "0",
+      "languages": [
+        "C#",
+        "JAVA"
+      ],
+      "id": 4
+    },
+    {
+      "name": "C11_Hunghh",
+      "age": 22,
+      "gender": "1",
+      "languages": [
+        "C#",
+        "JAVA",
+        "ReactJS"
+      ],
+      "id": 5
+    },
+    {
+      "name": "C11_Hung",
+      "age": "19",
+      "gender": "0",
+      "languages": [
+        "C#",
+        "JAVA"
+      ],
+      "id": 6
+    }
+  ]
+}
