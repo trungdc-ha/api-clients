@@ -15,7 +15,7 @@ export function StudentCreate() {
         <>
         <Formik
             initialValues={{
-                name: 'C11_Hung',
+                name: '',
                 age: '19',
                 gender: '0',
                 languages: ['C#', 'JAVA']
