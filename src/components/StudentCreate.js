@@ -23,7 +23,7 @@ export function StudentCreate() {
             validationSchema={Yup.object({
                 name: Yup.string()
                     .required("Nhap ten.")
-                    .matches(/^C11_[a-z,A-Z]+$/, "Please input name with format C11_XXXX."),
+                    .matches(/^C08_[a-z,A-Z]+$/, "Please input name with format C08_XXXX."),
                 age: Yup.number().integer()
                     .min(18)
                     .max(50)

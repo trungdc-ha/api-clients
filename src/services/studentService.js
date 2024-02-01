@@ -12,7 +12,8 @@ export const findAll = async () => {
 
 export const save = async (student) => {
     try {
-        await axios.post('https://my-json-server.typicode.com/trungdc-ha/api-clients/students', student)
+        const result = await axios.post('https://my-json-server.typicode.com/trungdc-ha/api-clients/students', student)
+        console.log(result)
     } catch (error){
         console.log(error)
     }
