@@ -39,7 +39,7 @@ export function StudentList() {
 
     return (
         <>
-            <h1>Hello C08</h1>
+            <h1>Hello C08 2024</h1>
             <table className="table">
                 <thead>
                 <tr>
